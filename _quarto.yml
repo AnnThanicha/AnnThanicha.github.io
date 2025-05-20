@@ -3,17 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "My Website"
+  page-footer: 
+    center: "Copyright 2025, Thanicha Chanchaidechachai" 
+    right: 
+      - icon: github
+        href: https://github.com/
+  search: false
+  back-to-top-navigation: true
   navbar:
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "About"
-        href: about.qmd
-      - text: "CV"
-        href: cv.qmd
+      left:
+        - href: index.qmd
+          text: Home
+        - text: "Courses"
+          menu: 
+            - href: vet_epi.qmd
+              text: Veterinary Epidemiology
+            - href: intro_r.qmd
+              text: R program for veterinary research
+        - href: cv.qmd
+          text: About me
+        
+      right: 
+        - icon: linkedin
+          href: https://www.linkedin.com/in/thanicha-chanchaidechachai/
+        - icon: github
+          href: https://github.com/AnnThanicha
+        - icon: envelope
+          href: thanicha.c@outlook.co.th
+
 format:
   html:
-    theme: cosmo  # or another like 'flatly', 'journal'
-    css: styles.css  # optional custom CSS
+    theme: lumen
+    css: styles.css
 
+editor: visual
