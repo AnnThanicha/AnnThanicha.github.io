@@ -30,10 +30,10 @@ website:
           href: https://github.com/AnnThanicha
         - icon: envelope
           href: thanicha.c@outlook.co.th
-
+          
 format:
   html:
-    theme: lumen
+    theme: United
     css: styles.css
 
 editor: visual
