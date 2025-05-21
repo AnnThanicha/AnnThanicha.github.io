@@ -1,0 +1,10 @@
+style: floating
+search: true
+contents:
+  - section: "Overview"
+    contents:
+      - vet_epi.qmd
+  - section: "Modules"
+    contents:
+      - module1.qmd
+      - module2.qmd

@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "vet_epi.html",
-    "href": "vet_epi.html",
-    "title": "vet_epi",
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "profile_Thanicha",
     "section": "",
-    "text": "“A Multitude of Emotions” in Veterinary Work: A Mixed-Methods Analysis of Emotional Intelligence and Experiences in Early-Career Veterinarians Presentation at ISVEE17\nDoctoral Thesis Defence\n\nSee list of previous presentations here.\n\n\n\n Back to top"
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
-    "objectID": "intro_r.html",
-    "href": "intro_r.html",
-    "title": "intro_r",
+    "objectID": "profile.html#quarto",
+    "href": "profile.html#quarto",
+    "title": "profile_Thanicha",
     "section": "",
-    "text": "Back to top"
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "profile.html#running-code",
+    "href": "profile.html#running-code",
+    "title": "profile_Thanicha",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
     "objectID": "cv.html",
@@ -56,38 +63,73 @@
     "text": "Business Economics, Wageningen University, 2023-2024\n\nResearch Assistant"
   },
   {
+    "objectID": "Courses/module2.html",
+    "href": "Courses/module2.html",
+    "title": "module2",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Courses/module2.html#quarto",
+    "href": "Courses/module2.html#quarto",
+    "title": "module2",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Courses/module2.html#running-code",
+    "href": "Courses/module2.html#running-code",
+    "title": "module2",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Courses/intro_r.html",
+    "href": "Courses/intro_r.html",
+    "title": "R for Veterinary Research",
+    "section": "",
+    "text": ".."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Courses/module1.html",
+    "href": "Courses/module1.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Courses/module1.html#quarto",
+    "href": "Courses/module1.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Courses/module1.html#running-code",
+    "href": "Courses/module1.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Courses/vet_epi.html",
+    "href": "Courses/vet_epi.html",
+    "title": "Veterinary Epidemiology",
+    "section": "",
+    "text": "33"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "profile.html",
-    "href": "profile.html",
-    "title": "profile_Thanicha",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "profile.html#quarto",
-    "href": "profile.html#quarto",
-    "title": "profile_Thanicha",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "profile.html#running-code",
-    "href": "profile.html#running-code",
-    "title": "profile_Thanicha",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Welcome\nThis is the homepage of my teaching site."
   }
 ]

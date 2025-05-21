@@ -1,4 +1,0 @@
----
-title: "intro_r"
-editor: visual
----

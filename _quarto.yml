@@ -2,38 +2,39 @@ project:
   type: website
   output-dir: docs
 
+
 website:
-  page-footer: 
-    center: "Copyright 2025, Thanicha Chanchaidechachai" 
-    right: 
+  title: "My Teaching Site"
+  page-footer:
+    center: "Copyright 2025, Thanicha Chanchaidechachai"
+    right:
       - icon: github
         href: https://github.com/
-  search: false
-  back-to-top-navigation: true
   navbar:
-      left:
-        - href: index.qmd
-          text: Home
-        - text: "Courses"
-          menu: 
-            - href: vet_epi.qmd
-              text: Veterinary Epidemiology
-            - href: intro_r.qmd
-              text: R program for veterinary research
-        - href: cv.qmd
-          text: About me
-        
-      right: 
-        - icon: linkedin
-          href: https://www.linkedin.com/in/thanicha-chanchaidechachai/
-        - icon: github
-          href: https://github.com/AnnThanicha
-        - icon: envelope
-          href: thanicha.c@outlook.co.th
-          
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Courses"
+        menu:
+          - text: "Veterinary Epidemiology"
+            href: Courses/vet_epi.qmd
+          - text: "Introduction to R"
+            href: Courses/intro_r.qmd
+      - text: "About"
+        href: profile.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/thanicha-chanchaidechachai/
+      - icon: github
+        href: https://github.com/AnnThanicha
+      - icon: envelope
+        href: mailto:thanicha.c@outlook.co.th
+
 format:
   html:
     theme: united
+    toc: true
     css: styles.css
+    search: true
 
 editor: visual
