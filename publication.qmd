@@ -1,5 +1,27 @@
 ---
 title: "Research projects"
-about:
-  template: jolla
 ---
+
+## Year 2025
+
+-   [Spatial-temporal distribution and risk factors of foot and mouth disease outbreaks in Java Island, Indonesia from 2022 to 2023](https://link.springer.com/article/10.1186/s12917-025-04621-2)\
+
+## Year 2024
+
+-   [One-size measures do not fit all areas: Evaluation of area-specific control of foot and mouth disease in Thailand using bioeconomic modelling](https://www.sciencedirect.com/science/article/pii/S0167587724002459)
+
+-   [Integrating social sciences in preventing and responding to zoonotic diseases outbreaks](https://research.wur.nl/en/publications/integrating-social-sciences-in-preventing-and-responding-to-zoono)\
+
+## Year 2023
+
+-   [Spatial model of foot-and-mouth disease outbreak in an endemic area of Thailand](https://www.sciencedirect.com/science/article/pii/S0167587721002129)
+-   [Evaluation of foot and mouth disease control measures: Simulating two endemic areas of Thailand](https://www.sciencedirect.com/science/article/pii/S016758772300209X)
+-   [An integrated epidemiological and economic analysis of foot and mouth disease (FMD) in Thailand: Evaluation of FMD control measures (Thesis)](https://edepot.wur.nl/635611)\
+
+## Year 2022
+
+-   [Epidemiology of foot‐and‐mouth disease outbreaks in Thailand from 2011 to 2018](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tbed.14754)
+
+-   [Analysis of epidemiological and economic impact of foot-and-mouth disease outbreaks in four district areas in Thailand](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.904630/full)
+
+-   [Spatial model of foot-and-mouth disease outbreak in an endemic area of Thailand](Spatial model of foot-and-mouth disease outbreak in an endemic area of Thailand)

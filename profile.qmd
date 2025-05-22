@@ -30,7 +30,9 @@ about:
 
 Since childhood, I have been passionate about animals and biology, which led me to study veterinary medicine at Chulalongkorn University, Thailand. After graduating, I worked as a research assistant and witnessed firsthand the challenges Thai farmers face with animal disease. Motivated by these experiences, and with the support of a scholarship from the Anandamahidol Foundation, I pursued a Master Epidemiology at Utrecht University and a PhD at Wageningen University & Research. Post-PhD, I worked as a postdoctoral researcher at Wageningen and Utrecht Universities, where I explored a range of topics from social science methods in One Health and greenhouse gas emissions in dairy farms to the use of automated data in ketosis research and the impact of sustainable poultry farming on avian influenza. These experiences have broadened my perspective beyond traditional veterinary epidemiology.\
 \
-My current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me. [I believe that research is better when we work as a team, and knowledge becomes greater when it is shared.]{style="color: purple; font-weight: bold; font-style: italic;"}
+My current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me.\
+\
+[I believe that research is better when we work as a team, and knowledge becomes greater when it is shared.]{style="color: purple; font-weight: bold; font-style: italic;"}
 
 ## Education
 

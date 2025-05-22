@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Research projects",
+    "section": "",
+    "text": "Spatial-temporal distribution and risk factors of foot and mouth disease outbreaks in Java Island, Indonesia from 2022 to 2023"
+  },
+  {
+    "objectID": "publication.html#year-2025",
+    "href": "publication.html#year-2025",
+    "title": "Research projects",
+    "section": "",
+    "text": "Spatial-temporal distribution and risk factors of foot and mouth disease outbreaks in Java Island, Indonesia from 2022 to 2023"
+  },
+  {
+    "objectID": "publication.html#year-2024",
+    "href": "publication.html#year-2024",
+    "title": "Research projects",
+    "section": "Year 2024",
+    "text": "Year 2024\n\nOne-size measures do not fit all areas: Evaluation of area-specific control of foot and mouth disease in Thailand using bioeconomic modelling\nIntegrating social sciences in preventing and responding to zoonotic diseases outbreaks"
+  },
+  {
+    "objectID": "publication.html#year-2023",
+    "href": "publication.html#year-2023",
+    "title": "Research projects",
+    "section": "Year 2023",
+    "text": "Year 2023\n\nSpatial model of foot-and-mouth disease outbreak in an endemic area of Thailand\nEvaluation of foot and mouth disease control measures: Simulating two endemic areas of Thailand\nAn integrated epidemiological and economic analysis of foot and mouth disease (FMD) in Thailand: Evaluation of FMD control measures (Thesis)"
+  },
+  {
+    "objectID": "publication.html#year-2022",
+    "href": "publication.html#year-2022",
+    "title": "Research projects",
+    "section": "Year 2022",
+    "text": "Year 2022\n\nEpidemiology of foot‐and‐mouth disease outbreaks in Thailand from 2011 to 2018\nAnalysis of epidemiological and economic impact of foot-and-mouth disease outbreaks in four district areas in Thailand\nSpatial model of foot-and-mouth disease outbreak in an endemic area of Thailand"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to my teaching website",
@@ -11,14 +46,7 @@
     "href": "index.html#what-youll-find-here",
     "title": "Welcome to my teaching website",
     "section": "What You’ll Find Here",
-    "text": "What You’ll Find Here\n\nLecture slides and required readings\n\nPractical exercises and dataset for case studies\n\nR Code example codes for R\n\nRelated research and publications"
-  },
-  {
-    "objectID": "index.html#lets-learn-together",
-    "href": "index.html#lets-learn-together",
-    "title": "Welcome to my teaching website",
-    "section": "Let’s Learn Together",
-    "text": "Let’s Learn Together\nFeel free to explore the materials and reach out if you have questions. Because…\nKnowledge is better when shared"
+    "text": "What You’ll Find Here\n\nLecture slides and required readings\n\nPractical exercises and dataset for case studies\n\nR Code example codes for R\n\nRelated research and publications\n\n\nFeel free to explore the materials and reach out if you have questions. Because…\n\nKnowledge is greater when shared"
   },
   {
     "objectID": "about.html",
@@ -74,14 +102,14 @@
     "href": "profile.html",
     "title": "Thanicha Ann Chanchaidechachai",
     "section": "",
-    "text": "Since childhood, I have been passionate about animals and biology, which led me to study veterinary medicine at Chulalongkorn University, Thailand. After graduating, I worked as a research assistant and witnessed firsthand the challenges Thai farmers face with animal disease. Motivated by these experiences, and with the support of a scholarship from the Anandamahidol Foundation, I pursued a Master Epidemiology at Utrecht University and a PhD at Wageningen University & Research. Post-PhD, I worked as a postdoctoral researcher at Wageningen and Utrecht Universities, where I explored a range of topics from social science methods in One Health and greenhouse gas emissions in dairy farms to the use of automated data in ketosis research and the impact of sustainable poultry farming on avian influenza. These experiences have broadened my perspective beyond traditional veterinary epidemiology.\n\nMy current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me. I believe that research is better when we work as a team, and knowledge becomes greater when it is shared."
+    "text": "Since childhood, I have been passionate about animals and biology, which led me to study veterinary medicine at Chulalongkorn University, Thailand. After graduating, I worked as a research assistant and witnessed firsthand the challenges Thai farmers face with animal disease. Motivated by these experiences, and with the support of a scholarship from the Anandamahidol Foundation, I pursued a Master Epidemiology at Utrecht University and a PhD at Wageningen University & Research. Post-PhD, I worked as a postdoctoral researcher at Wageningen and Utrecht Universities, where I explored a range of topics from social science methods in One Health and greenhouse gas emissions in dairy farms to the use of automated data in ketosis research and the impact of sustainable poultry farming on avian influenza. These experiences have broadened my perspective beyond traditional veterinary epidemiology.\n\nMy current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me.\n\nI believe that research is better when we work as a team, and knowledge becomes greater when it is shared."
   },
   {
     "objectID": "profile.html#about-me",
     "href": "profile.html#about-me",
     "title": "Thanicha Ann Chanchaidechachai",
     "section": "",
-    "text": "Since childhood, I have been passionate about animals and biology, which led me to study veterinary medicine at Chulalongkorn University, Thailand. After graduating, I worked as a research assistant and witnessed firsthand the challenges Thai farmers face with animal disease. Motivated by these experiences, and with the support of a scholarship from the Anandamahidol Foundation, I pursued a Master Epidemiology at Utrecht University and a PhD at Wageningen University & Research. Post-PhD, I worked as a postdoctoral researcher at Wageningen and Utrecht Universities, where I explored a range of topics from social science methods in One Health and greenhouse gas emissions in dairy farms to the use of automated data in ketosis research and the impact of sustainable poultry farming on avian influenza. These experiences have broadened my perspective beyond traditional veterinary epidemiology.\n\nMy current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me. I believe that research is better when we work as a team, and knowledge becomes greater when it is shared."
+    "text": "Since childhood, I have been passionate about animals and biology, which led me to study veterinary medicine at Chulalongkorn University, Thailand. After graduating, I worked as a research assistant and witnessed firsthand the challenges Thai farmers face with animal disease. Motivated by these experiences, and with the support of a scholarship from the Anandamahidol Foundation, I pursued a Master Epidemiology at Utrecht University and a PhD at Wageningen University & Research. Post-PhD, I worked as a postdoctoral researcher at Wageningen and Utrecht Universities, where I explored a range of topics from social science methods in One Health and greenhouse gas emissions in dairy farms to the use of automated data in ketosis research and the impact of sustainable poultry farming on avian influenza. These experiences have broadened my perspective beyond traditional veterinary epidemiology.\n\nMy current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me.\n\nI believe that research is better when we work as a team, and knowledge becomes greater when it is shared."
   },
   {
     "objectID": "profile.html#education",

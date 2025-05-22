@@ -15,9 +15,8 @@ Welcome to the my teaching website for **Veterinary Epidemiology** and **Introdu
 
 -   **Related research** and publications\
 
-## Let’s Learn Together
-
 Feel free to explore the materials and reach out if you have questions. Because...\
-[Knowledge is better when shared]{style="color: purple; font-weight: bold; font-size: 2em;"}
+\
+[Knowledge is greater when shared]{style="color: purple; font-weight: bold; font-size: 2em;"}
 
 ![](images/books1.jpg){width="500"}
