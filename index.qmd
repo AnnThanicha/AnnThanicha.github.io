@@ -1,8 +1,23 @@
 ---
-title: "Welcome"
+title: "Welcome to my teaching website"
 format: html
 ---
 
-# Welcome
+Welcome to the my teaching website for **Veterinary Epidemiology** and **Introduction to R** courses. This website provides access to all course materials, resources, and updates.\
 
-This is the homepage of my teaching site.
+## What You’ll Find Here
+
+-   **Lecture slides** and required readings\
+
+-   **Practical exercises** and dataset for case studies\
+
+-   **R Code** example codes for R\
+
+-   **Related research** and publications\
+
+## Let’s Learn Together
+
+Feel free to explore the materials and reach out if you have questions. Because...\
+[Knowledge is better when shared]{style="color: purple; font-weight: bold; font-size: 2em;"}
+
+![](images/books1.jpg){width="500"}

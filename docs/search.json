@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "profile.html",
-    "href": "profile.html",
-    "title": "profile_Thanicha",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my teaching website",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Welcome to the my teaching website for Veterinary Epidemiology and Introduction to R courses. This website provides access to all course materials, resources, and updates."
   },
   {
-    "objectID": "profile.html#quarto",
-    "href": "profile.html#quarto",
-    "title": "profile_Thanicha",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Welcome to my teaching website",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\n\nLecture slides and required readings\n\nPractical exercises and dataset for case studies\n\nR Code example codes for R\n\nRelated research and publications"
   },
   {
-    "objectID": "profile.html#running-code",
-    "href": "profile.html#running-code",
-    "title": "profile_Thanicha",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "index.html#lets-learn-together",
+    "href": "index.html#lets-learn-together",
+    "title": "Welcome to my teaching website",
+    "section": "Let’s Learn Together",
+    "text": "Let’s Learn Together\nFeel free to explore the materials and reach out if you have questions. Because…\nKnowledge is better when shared"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "cv.html",
@@ -63,73 +70,24 @@
     "text": "Business Economics, Wageningen University, 2023-2024\n\nResearch Assistant"
   },
   {
-    "objectID": "Courses/module2.html",
-    "href": "Courses/module2.html",
-    "title": "module2",
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "Thanicha Ann Chanchaidechachai",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Since childhood, I have been passionate about animals and biology, which led me to study veterinary medicine at Chulalongkorn University, Thailand. After graduating, I worked as a research assistant and witnessed firsthand the challenges Thai farmers face with animal disease. Motivated by these experiences, and with the support of a scholarship from the Anandamahidol Foundation, I pursued a Master Epidemiology at Utrecht University and a PhD at Wageningen University & Research. Post-PhD, I worked as a postdoctoral researcher at Wageningen and Utrecht Universities, where I explored a range of topics from social science methods in One Health and greenhouse gas emissions in dairy farms to the use of automated data in ketosis research and the impact of sustainable poultry farming on avian influenza. These experiences have broadened my perspective beyond traditional veterinary epidemiology.\n\nMy current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me. I believe that research is better when we work as a team, and knowledge becomes greater when it is shared."
   },
   {
-    "objectID": "Courses/module2.html#quarto",
-    "href": "Courses/module2.html#quarto",
-    "title": "module2",
+    "objectID": "profile.html#about-me",
+    "href": "profile.html#about-me",
+    "title": "Thanicha Ann Chanchaidechachai",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Since childhood, I have been passionate about animals and biology, which led me to study veterinary medicine at Chulalongkorn University, Thailand. After graduating, I worked as a research assistant and witnessed firsthand the challenges Thai farmers face with animal disease. Motivated by these experiences, and with the support of a scholarship from the Anandamahidol Foundation, I pursued a Master Epidemiology at Utrecht University and a PhD at Wageningen University & Research. Post-PhD, I worked as a postdoctoral researcher at Wageningen and Utrecht Universities, where I explored a range of topics from social science methods in One Health and greenhouse gas emissions in dairy farms to the use of automated data in ketosis research and the impact of sustainable poultry farming on avian influenza. These experiences have broadened my perspective beyond traditional veterinary epidemiology.\n\nMy current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me. I believe that research is better when we work as a team, and knowledge becomes greater when it is shared."
   },
   {
-    "objectID": "Courses/module2.html#running-code",
-    "href": "Courses/module2.html#running-code",
-    "title": "module2",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "Courses/intro_r.html",
-    "href": "Courses/intro_r.html",
-    "title": "R for Veterinary Research",
-    "section": "",
-    "text": ".."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "Courses/module1.html",
-    "href": "Courses/module1.html",
-    "title": "Untitled",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "Courses/module1.html#quarto",
-    "href": "Courses/module1.html#quarto",
-    "title": "Untitled",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "Courses/module1.html#running-code",
-    "href": "Courses/module1.html#running-code",
-    "title": "Untitled",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "Courses/vet_epi.html",
-    "href": "Courses/vet_epi.html",
-    "title": "Veterinary Epidemiology",
-    "section": "",
-    "text": "33"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome\nThis is the homepage of my teaching site."
+    "objectID": "profile.html#education",
+    "href": "profile.html#education",
+    "title": "Thanicha Ann Chanchaidechachai",
+    "section": "Education",
+    "text": "Education\nDoctor of Philosophy (Ph.D.) in Veterinary Epidemiology and Animal Health Economics\nOctober 2020 - October 2023\nBusiness Economics group and Quantitative Veterinary Epidemiology group, Wageningen University and research\nWageningen, the Netherlands\nMasters of Science (M.Sc.) Epidemiology\nSeptember 2018 - June 2020\nUtrecht University\nUtrecht, the Netherlands\nDoctor of Veterinary Medicine (D.V.M.)\nAugust 2010 - June 2016\nFaculty of Veterinary Science, Chulalongkorn University\nBangkok, Thailand"
   }
 ]

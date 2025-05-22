@@ -1,26 +1,59 @@
 ---
-title: "profile_Thanicha"
+title: "Thanicha `Ann` Chanchaidechachai"
 format: html
-editor: visual
+about:
+  template: trestles
+  image: "images/profile.jpg"
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: "https://www.linkedin.com/in/thanicha-chanchaidechachai/"
+    - icon: github
+      text: GitHub
+      url: "https://github.com/AnnThanicha"
+    - icon: envelope
+      text: Email
+      url: "mailto:thanicha.c@outlook.co.th"
+    - icon: r-square-fill
+      text: Researchgate
+      url: "https://www.researchgate.net/profile/Thanicha-Chanchaidechachai?ev=hdr_xprf"
+    - icon: 0-circle-fill
+      text: ORCID
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-1301-3113"
+    - icon: mortarboard-fill
+      text: Google Scholar
+      url: "https://scholar.google.com/citations?user=NNyNCRgAAAAJ&hl=en"
 ---
 
-## Quarto
+## About me
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Since childhood, I have been passionate about animals and biology, which led me to study veterinary medicine at Chulalongkorn University, Thailand. After graduating, I worked as a research assistant and witnessed firsthand the challenges Thai farmers face with animal disease. Motivated by these experiences, and with the support of a scholarship from the Anandamahidol Foundation, I pursued a Master Epidemiology at Utrecht University and a PhD at Wageningen University & Research. Post-PhD, I worked as a postdoctoral researcher at Wageningen and Utrecht Universities, where I explored a range of topics from social science methods in One Health and greenhouse gas emissions in dairy farms to the use of automated data in ketosis research and the impact of sustainable poultry farming on avian influenza. These experiences have broadened my perspective beyond traditional veterinary epidemiology.\
+\
+My current research interests include veterinary epidemiology, data science, One Health, animal health economics, and sustainability. If you are working in these or related areas and are interested in collaboration, please feel free to contact me. [I believe that research is better when we work as a team, and knowledge becomes greater when it is shared.]{style="color: purple; font-weight: bold; font-style: italic;"}
 
-## Running Code
+## Education
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+**Doctor of Philosophy (Ph.D.) in Veterinary Epidemiology and Animal Health Economics**
 
-```{r}
-1 + 1
-```
+October 2020 - October 2023
 
-You can add options to executable code like this
+*Business Economics group and Quantitative Veterinary Epidemiology group, Wageningen University and research*
 
-```{r}
-#| echo: false
-2 * 2
-```
+Wageningen, the Netherlands
 
-The `echo: false` option disables the printing of code (only output is displayed).
+**Masters of Science (M.Sc.) Epidemiology**
+
+September 2018 - June 2020
+
+*Utrecht University*
+
+Utrecht, the Netherlands
+
+**Doctor of Veterinary Medicine (D.V.M.)**
+
+August 2010 - June 2016
+
+*Faculty of Veterinary Science, Chulalongkorn University*
+
+Bangkok, Thailand

@@ -1,6 +1,5 @@
 ---
 title: "Veterinary Epidemiology"
-editor: visual
 ---
 
--   33
+![](/images/trex.png)

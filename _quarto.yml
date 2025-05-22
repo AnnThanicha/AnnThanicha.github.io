@@ -20,6 +20,8 @@ website:
             href: Courses/vet_epi.qmd
           - text: "Introduction to R"
             href: Courses/intro_r.qmd
+      - text: "Research"
+        href: publication.qmd
       - text: "About"
         href: profile.qmd
     right:
@@ -29,6 +31,23 @@ website:
         href: https://github.com/AnnThanicha
       - icon: envelope
         href: mailto:thanicha.c@outlook.co.th
+
+  sidebar:
+    - title: "Veterinary Epidemiology"
+      style: "docked"
+      background: light
+      contents:
+        - Courses/vet_epi.qmd
+        - Courses/module1.qmd
+        - Courses/module2.qmd
+    - title: "Introduction to R"
+      style: "docked"
+      background: light
+      contents:
+        - Courses/intro_r.qmd
+        - Courses/module1.qmd
+        - Courses/module2.qmd
+
 
 format:
   html:

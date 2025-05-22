@@ -1,5 +1,5 @@
 ---
-title: "R for Veterinary Research"
+title: "Introduction to R prpgram"
 editor: visual
 ---
-..
+![](/images/trex.png)
