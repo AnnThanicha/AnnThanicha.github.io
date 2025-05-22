@@ -15,7 +15,9 @@ title: "Research projects"
 ## Year 2023
 
 -   [Spatial model of foot-and-mouth disease outbreak in an endemic area of Thailand](https://www.sciencedirect.com/science/article/pii/S0167587721002129)
+
 -   [Evaluation of foot and mouth disease control measures: Simulating two endemic areas of Thailand](https://www.sciencedirect.com/science/article/pii/S016758772300209X)
+
 -   [An integrated epidemiological and economic analysis of foot and mouth disease (FMD) in Thailand: Evaluation of FMD control measures (Thesis)](https://edepot.wur.nl/635611)\
 
 ## Year 2022
@@ -24,4 +26,4 @@ title: "Research projects"
 
 -   [Analysis of epidemiological and economic impact of foot-and-mouth disease outbreaks in four district areas in Thailand](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.904630/full)
 
--   [Spatial model of foot-and-mouth disease outbreak in an endemic area of Thailand](Spatial model of foot-and-mouth disease outbreak in an endemic area of Thailand)
+-   [Spatial model of foot-and-mouth disease outbreak in an endemic area of Thailand](Spatial%20model%20of%20foot-and-mouth%20disease%20outbreak%20in%20an%20endemic%20area%20of%20Thailand)
