@@ -1,6 +1,5 @@
 ---
-title: "module2"
+title: "Module2"
 ---
 
 ![](/images/trex.png)
-

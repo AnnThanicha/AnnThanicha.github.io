@@ -1,7 +1,13 @@
 ---
 title: "Research projects"
-format: html
+format: 
+  html:
+    title-block-style: default
+    title-block-banner: true
+    date: last-modified
 ---
+
+**Full paper can be downloaded from my** [researchgate](https://www.researchgate.net/profile/Thanicha-Chanchaidechachai?ev=hdr_xprf)
 
 ## Year 2025
 

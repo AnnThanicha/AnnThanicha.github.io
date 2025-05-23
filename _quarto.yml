@@ -10,7 +10,9 @@ website:
     right:
       - icon: github
         href: https://github.com/
+
   navbar:
+    pinned: true
     left:
       - text: "Home"
         href: index.qmd
@@ -55,5 +57,6 @@ format:
     toc: true
     css: styles.css
     search: true
-
+    
+date: last-modified
 editor: visual
