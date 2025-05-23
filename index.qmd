@@ -6,6 +6,7 @@ format:
     title-block-banner: true
 ---
 
+
 Welcome to the my teaching website for **Veterinary Epidemiology** and **Introduction to R** courses. This website provides access to all course materials, resources, and updates.\
 
 ## What You’ll Find Here

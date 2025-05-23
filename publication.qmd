@@ -4,7 +4,6 @@ format:
   html:
     title-block-style: default
     title-block-banner: true
-    date: last-modified
 ---
 
 **Full paper can be downloaded from my** [researchgate](https://www.researchgate.net/profile/Thanicha-Chanchaidechachai?ev=hdr_xprf)
